@@ -8,7 +8,6 @@
   "packages": {
     "minimongoid": "0.8.3",
     "parsleyjs": "1.1.7",
-    "stripe-server": "1.4.0",
     "reststop2": "0.5.9",
     "npm": "0.2.6",
     "accounts-t9n": "0.0.5"
