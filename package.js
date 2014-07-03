@@ -20,7 +20,7 @@ Package.on_use(function (api, where) {
 
   api.use([
     'coffeescript',
-    'minimongoid',
+    'minimongoid'
   ], ['client', 'server']);
 
 
