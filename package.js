@@ -21,7 +21,6 @@ Package.on_use(function (api, where) {
   api.use([
     'coffeescript',
     'minimongoid',
-    'stripe-server'
   ], ['client', 'server']);
 
 
